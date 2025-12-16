@@ -1,0 +1,5 @@
+{
+  "name": "SkillBridge AI",
+  "description": "An AI-powered career roadmap generator that analyzes your resume against target job roles to identify skill gaps and create personalized learning paths.",
+  "requestFramePermissions": []
+}
